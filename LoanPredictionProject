@@ -1,4 +1,0 @@
-This is a project whose purpose is to predict if a loan will get approved or not. The data is split into test data and training data, so there is no need to do a split.
-The process for this project was more complicated than the previous Iris Data set. There is need for null imputation for the training set to be used for predicting. 
-I went a little deeper than may be expected with the imputation of the null values. Some I imputed based on the relationship of other columns and the probabilities of thier values. Others I just used one of the descriptive statistcs. 
-The projects then has some Exploratory Data Analysis of the imputed train data, some dimensionality reduction, and then uses Logistic Regression for the prediction. 
